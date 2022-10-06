@@ -1,4 +1,8 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# Build own TrendDAO with ThirdWeb
+
+* ✍️ deploy my own NFT bundle for friends to mint
+* 💰 deploy a custom ERC-20 token
+* 🚀 airdrop tokens to let users vote on proposals
 
 ### **Welcome 👋**
 To get started with this project, clone this repo and follow these commands:
@@ -8,4 +12,3 @@ To get started with this project, clone this repo and follow these commands:
 3. Start coding!
 
 ### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!

@@ -31,27 +31,3 @@ const sdk = new ThirdwebSDK(wallet);
 })();
 
 export default sdk;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
