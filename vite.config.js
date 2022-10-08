@@ -3,6 +3,9 @@ import react from "@vitejs/plugin-react";
 
 const defaultConfig = {
   plugins: [react()],
+  server: {
+    host: '0.0.0.0',
+  }
 };
 
 // https://vitejs.dev/config/
