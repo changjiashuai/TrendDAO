@@ -24,3 +24,14 @@ To get started with this project, clone this repo and follow these commands:
 9. setup vote
 10. create vote proposals
 11. revoke roles
+
+### Project url
+```
+https://trend-dao.jiashuaichang.repl.co/
+```
+
+### Screenshot
+
+![运行截图](imgs/s1.png)
+![运行截图](imgs/s2.png)
+
