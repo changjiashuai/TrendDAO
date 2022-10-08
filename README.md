@@ -9,6 +9,18 @@ To get started with this project, clone this repo and follow these commands:
 
 1. Run `npm install` at the root of your directory
 2. Run `npm start` to start the project
-3. Start coding!
+3. Start
 
-### **Questions?**
+### **Scripts**
+
+1. deploy drop
+2. config nft
+3. set claim condition
+4. claim nft
+5. deploy token
+6. print total supply
+7. airdrop token
+8. deploy vote
+9. setup vote
+10. create vote proposals
+11. revoke roles

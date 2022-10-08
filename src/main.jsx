@@ -1,5 +1,5 @@
 import React from 'react';
-import {createRoot} from "react-dom/client";
+import ReactDOM from "react-dom";
 import './styles/index.css';
 import App from './App';
 
@@ -9,13 +9,12 @@ import {ChainId, ThirdwebProvider} from '@thirdweb-dev/react';
 // This is the chainId your dApp will work on.
 const activeChainId = ChainId.Goerli;
 
-const container = document.getElementById("root");
-const root = createRoot(container);
 // Wrap your app with the thirdweb provider
-root.render(
+ReactDOM.render(
     <React.StrictMode>
         <ThirdwebProvider desiredChainId={activeChainId}>
-            <App/>
+            <App />
         </ThirdwebProvider>
-    </React.StrictMode>
+    </React.StrictMode>,
+    document.getElementById('root'),
 );
